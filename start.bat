@@ -1,0 +1,2 @@
+java -Xmx10G -jar SERVER_FILE_NAME.jar
+PAUSE
